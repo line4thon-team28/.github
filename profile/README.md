@@ -1,4 +1,4 @@
-<img src="images/banner.png" alt="포포즈 PAWPOSE" width="100%" />
+<img src="images/banner-v2.png" alt="포포즈 PAWPOSE" width="100%" />
 
 # 🐾 포포즈 (PAWPOSE)
 
